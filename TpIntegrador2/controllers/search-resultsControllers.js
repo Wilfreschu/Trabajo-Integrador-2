@@ -1,0 +1,1 @@
+const searchResults = require("../routes/search-results")

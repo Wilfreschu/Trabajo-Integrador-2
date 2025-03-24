@@ -1,0 +1,1 @@
+const register = require("../routes/register")
